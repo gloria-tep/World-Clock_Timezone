@@ -29,6 +29,7 @@ select {
 footer {
   text-align: center;
   padding: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .city {
   display: flex;
